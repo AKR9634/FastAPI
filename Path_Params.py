@@ -34,5 +34,5 @@ def get_patient(patient_id:str = Path(..., description="ID of the Patient", exam
         if patient["id"] == patient_id:
             return patient
     
-    raise HTTPException(status_code=404, details='Patient not found!!!')
+    raise HTTPException(status_code=404, detail='Patient not found!!!')
     
