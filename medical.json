@@ -1,132 +1,142 @@
 [
-  {
-    "id": "p1",
-    "name": "John Miller",
-    "age": 28,
-    "gender": "Male",
-    "height_cm": 175,
-    "weight_kg": 72,
-    "bmi": 23.5,
-    "medical_verdict": "Normal weight, healthy"
-  },
-  {
-    "id": "p2",
-    "name": "Sarah Johnson",
-    "age": 34,
-    "gender": "Female",
-    "height_cm": 162,
-    "weight_kg": 68,
-    "bmi": 25.9,
-    "medical_verdict": "Overweight, lifestyle changes advised"
-  },
-  {
-    "id": "p3",
-    "name": "David Lee",
-    "age": 45,
-    "gender": "Male",
-    "height_cm": 170,
-    "weight_kg": 85,
-    "bmi": 29.4,
-    "medical_verdict": "Overweight, monitor diet"
-  },
-  {
-    "id": "p4",
-    "name": "Emily Brown",
-    "age": 22,
-    "gender": "Female",
-    "height_cm": 158,
-    "weight_kg": 50,
-    "bmi": 20.0,
-    "medical_verdict": "Healthy"
-  },
-  {
-    "id": "p5",
-    "name": "Michael Davis",
-    "age": 52,
-    "gender": "Male",
-    "height_cm": 178,
-    "weight_kg": 95,
-    "bmi": 30.0,
-    "medical_verdict": "Obese, medical consultation recommended"
-  },
-  {
-    "id": "p6",
-    "name": "Olivia Wilson",
-    "age": 29,
-    "gender": "Female",
-    "height_cm": 165,
-    "weight_kg": 60,
-    "bmi": 22.0,
-    "medical_verdict": "Normal weight"
-  },
-  {
-    "id": "p7",
-    "name": "Daniel Martinez",
-    "age": 40,
-    "gender": "Male",
-    "height_cm": 172,
-    "weight_kg": 78,
-    "bmi": 26.4,
-    "medical_verdict": "Slightly overweight"
-  },
-  {
-    "id": "p8",
-    "name": "Sophia Anderson",
-    "age": 36,
-    "gender": "Female",
-    "height_cm": 160,
-    "weight_kg": 72,
-    "bmi": 28.1,
-    "medical_verdict": "Overweight, increased activity advised"
-  },
-  {
-    "id": "p9",
-    "name": "James Taylor",
-    "age": 31,
-    "gender": "Male",
-    "height_cm": 180,
-    "weight_kg": 70,
-    "bmi": 21.6,
-    "medical_verdict": "Healthy"
-  },
-  {
-    "id": "p10",
-    "name": "Isabella Thomas",
-    "age": 26,
-    "gender": "Female",
-    "height_cm": 168,
-    "weight_kg": 55,
-    "bmi": 19.5,
-    "medical_verdict": "Underweight, nutritional advice recommended"
-  },
-  {
-    "id": "p11",
-    "name": "William Harris",
-    "age": 60,
-    "gender": "Male",
-    "height_cm": 174,
-    "weight_kg": 88,
-    "bmi": 29.1,
-    "medical_verdict": "Overweight, regular checkups advised"
-  },
-  {
-    "id": "p12",
-    "name": "Ava Clark",
-    "age": 33,
-    "gender": "Female",
-    "height_cm": 170,
-    "weight_kg": 65,
-    "bmi": 22.5,
-    "medical_verdict": "Healthy"
-  },
-  {
-    "id": "p13",
-    "name": "Ethan Rodriguez",
-    "age": 19,
-    "gender": "Male",
-    "height_cm": 176,
-    "weight_kg": 62,
-    "bmi": 20.0,
-    "medical_verdict": "Healthy"
-  }
+   {
+      "id": "p1",
+      "name": "John Miller",
+      "age": 28,
+      "gender": "Male",
+      "height_cm": 175,
+      "weight_kg": 72,
+      "bmi": 23.5,
+      "medical_verdict": "Normal weight, healthy"
+   },
+   {
+      "id": "p2",
+      "name": "Sarah Johnson",
+      "age": 34,
+      "gender": "Female",
+      "height_cm": 162,
+      "weight_kg": 68,
+      "bmi": 25.9,
+      "medical_verdict": "Overweight, lifestyle changes advised"
+   },
+   {
+      "id": "p3",
+      "name": "David Lee",
+      "age": 45,
+      "gender": "Male",
+      "height_cm": 170,
+      "weight_kg": 85,
+      "bmi": 29.4,
+      "medical_verdict": "Overweight, monitor diet"
+   },
+   {
+      "id": "p4",
+      "name": "Emily Brown",
+      "age": 22,
+      "gender": "Female",
+      "height_cm": 158,
+      "weight_kg": 50,
+      "bmi": 20.0,
+      "medical_verdict": "Healthy"
+   },
+   {
+      "id": "p5",
+      "name": "Michael Davis",
+      "age": 52,
+      "gender": "Male",
+      "height_cm": 178,
+      "weight_kg": 95,
+      "bmi": 30.0,
+      "medical_verdict": "Obese, medical consultation recommended"
+   },
+   {
+      "id": "p6",
+      "name": "Olivia Wilson",
+      "age": 29,
+      "gender": "Female",
+      "height_cm": 165,
+      "weight_kg": 60,
+      "bmi": 22.0,
+      "medical_verdict": "Normal weight"
+   },
+   {
+      "id": "p7",
+      "name": "Daniel Martinez",
+      "age": 40,
+      "gender": "Male",
+      "height_cm": 172,
+      "weight_kg": 78,
+      "bmi": 26.4,
+      "medical_verdict": "Slightly overweight"
+   },
+   {
+      "id": "p8",
+      "name": "Sophia Anderson",
+      "age": 36,
+      "gender": "Female",
+      "height_cm": 160,
+      "weight_kg": 72,
+      "bmi": 28.1,
+      "medical_verdict": "Overweight, increased activity advised"
+   },
+   {
+      "id": "p9",
+      "name": "James Taylor",
+      "age": 31,
+      "gender": "Male",
+      "height_cm": 180,
+      "weight_kg": 70,
+      "bmi": 21.6,
+      "medical_verdict": "Healthy"
+   },
+   {
+      "id": "p10",
+      "name": "Isabella Thomas",
+      "age": 26,
+      "gender": "Female",
+      "height_cm": 168,
+      "weight_kg": 55,
+      "bmi": 19.5,
+      "medical_verdict": "Underweight, nutritional advice recommended"
+   },
+   {
+      "id": "p11",
+      "name": "William Harris",
+      "age": 60,
+      "gender": "Male",
+      "height_cm": 174,
+      "weight_kg": 88,
+      "bmi": 29.1,
+      "medical_verdict": "Overweight, regular checkups advised"
+   },
+   {
+      "id": "p12",
+      "name": "Ava Clark",
+      "age": 33,
+      "gender": "Female",
+      "height_cm": 170,
+      "weight_kg": 65,
+      "bmi": 22.5,
+      "medical_verdict": "Healthy"
+   },
+   {
+      "id": "p13",
+      "name": "Ethan Rodriguez",
+      "age": 19,
+      "gender": "Male",
+      "height_cm": 176,
+      "weight_kg": 62,
+      "bmi": 20.0,
+      "medical_verdict": "Healthy"
+   },
+   {
+      "id": "p17",
+      "name": "AKR",
+      "age": 21,
+      "gender": "male",
+      "height_cm": 173.0,
+      "weight_kg": 57.0,
+      "bmi": 0,
+      "medical_verdict": "Underweight"
+   }
 ]
