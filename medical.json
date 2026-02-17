@@ -130,16 +130,6 @@
       "medical_verdict": "Healthy"
    },
    {
-      "id": "p23",
-      "name": "jack",
-      "age": 23,
-      "gender": "Male",
-      "height_cm": 177.0,
-      "weight_kg": 59.0,
-      "bmi": 18.83,
-      "medical_verdict": "Normal"
-   },
-   {
       "id": "p17",
       "name": "AKR",
       "age": 19,
