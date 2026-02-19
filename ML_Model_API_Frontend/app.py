@@ -91,4 +91,4 @@ def predict_premium(data:person):
 
     prediction = model.predict(input_df)[0]
 
-    return JSONResponse(status_code= 201, content={"Predicted Category" : prediction})
+    return JSONResponse(status_code= 200, content={"Predicted Category" : prediction})
